@@ -1,0 +1,12 @@
+#COLOURS
+BRANCO = (255,255,255)
+PRETO = (0,0,0)
+VERMELHO =(255,0,0)
+ROXO = (128,0,128)
+
+#MENU
+MENU_OPTION = ('NEW GAME 1P', "NEW GAME 2P - COOPERATIVE", 'SCORE','EXIT')
+
+#SIZES
+width_max: int = 720
+height_max: int = 1200
